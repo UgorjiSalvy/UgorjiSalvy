@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a blog website.
-- 🌱 I’m currently learning the basics of programming (Html&Css, Java Script, Python, SQL, GitHub).
-- 👯 I’m looking to collaborate on building a full interactive websites.
+- 🔭 I’m currently working on a Port-Folio Website.
+- 🌱 I’m currently learning the basics of programming (Html&Css, JavaScript, Python, SQL, GitHub).
+- 👯 
 - 🤔 I’m looking for help on my blog websites & on my knowledge on grid.
-- 💬 Ask me about ...
+- 💬 
 - 📫 How to reach me: Email - salvyug@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
